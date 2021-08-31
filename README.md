@@ -1,8 +1,8 @@
 ### Hi there 👋
 Who Am I
 
-> I'm an experienced economist with 5+ years of experience in quantitative finance and macroecnomic research:bowtie: \n
-> I joined the sector in 2015, working as a model validation of credit risk models. I am located in London, as part of highly skilled quantitative analyst team working for a top tier European bank.
+> I'm an experienced economist with 5+ years of experience in quantitative finance and macroecnomic research:bowtie: 
+I joined the sector in 2015, working as a model validation of credit risk models. I am located in London, as part of highly skilled quantitative analyst team working for a top tier European bank.
 
 A little more about my **recent experience**:
 - The methodologies I reviewed as a model validator comprised logistic regression, transition models, and variable selection process using *Python* language
@@ -23,7 +23,7 @@ I've tried to learn different languages, such as:
 * SAS
 * Matlab
 * SQL
--->
+
 
 <!--
 **arielmg09/arielmg09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
