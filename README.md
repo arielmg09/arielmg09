@@ -8,7 +8,7 @@ A little more about my **recent experience**:
 - The methodologies I reviewed as a model validator comprised logistic regression, transition models, and variable selection process using *Python* language
 - The activities involved the assessment of the methodology and performance of the model, assumptions testing, sensitivity analysis and input data review
 - I performed validation of commodities hedge fund operating revenue projection model, using time series modelling in *R* language. The assessment involved stress testing projections for FED CCAR scenarios
-- Performed independent validation of Operational Risk day-to-day losses projections, using Poisson regressions and R language to test model soundness, sensitivity and performance
+- Performed independent validation of Operational Risk day-to-day losses projections, using Poisson regressions and `R` language to test model soundness, sensitivity and performance
 - Performed an independent validation of secured funding liquidity risk under stress scenarios as per CCAR/DFAST guidelines and the model governance framework.
 
 
