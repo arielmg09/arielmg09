@@ -1,7 +1,7 @@
 ### Hi there 👋
 Who Am I
 > I'm an experienced economist with 5+ years of experience in quantitative finance and macroecnomic research :chart_with_upwards_trend:  
-> I joined the sector in 2015, working as a model validation of credit risk models. I am located in London, as part of highly skilled quantitative analyst team working for a top tier European bank :bowtie:. 
+> I joined the sector in 2015, working as a model validator of credit risk models. I am located in London, as part of a highly skilled quantitative analyst team working for a top tier European bank :bowtie:. 
 
 A little more about my **recent experience**:
 -	Experienced Quantitative Analyst with over 5 years’ experience working on critical risk initiatives within global financial risk institutions. 
