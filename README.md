@@ -1,61 +1,118 @@
-### Hi there, I am Ariel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-> I'm an experienced economist with 5+ years of experience in quantitative finance and macroecnomic research :chart_with_upwards_trend:  
-> I joined the sector in 2015, working as a model validator of credit risk models. I am located in London, as part of a highly skilled quantitative analyst team working for a top tier European bank :bowtie:. 
+## Hey 👋, I'm Ariel!  
+  
 
+<a href="https://github.com/arielmg09" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/arimartg" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ariel-m-gimenez" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/arielmarting" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/arielmg09" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
+✉️ arimgimenez@gmail.com  
+
+### Glad to see you here!  
+I'm an experienced economist with 5+ years of experience in quantitative finance and macroecnomic research.  I joined the sector in 2015, working as a model validator of credit and market risk models. 
+
+I am located in London, as part of a highly skilled quantitative analyst team working for a top tier European bank.  
+  
 ### A little more about my **recent experience**:
 -	Experienced Quantitative Analyst with over 5 years’ experience working on critical risk initiatives within global financial risk institutions.
--	Strong expertise in model risk (including SR 11-7, OCC 2011-12), stress testing (CCAR/DFAST), stress testing (including PRA SS 3/18) and PPNR forecasting.
+-	Strong expertise in model risk (including SR 11-7, OCC 2011-12), stress testing (including PRA SS 3/18, CCAR DFAST) and PPNR forecasting.
 -	Proven track record of delivery within risk management covering model validation, management reporting, regulatory assessment, and project management.
 -	Strong ability to collaborate with various stakeholders across the business and explain technical concepts to senior management.
 -	Skilled in `Python`, `R`, `SQL`, statistics, and econometrics. 
 -	Team leader, capable of manage several projects across different methodologies.
 
+
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- ⚡ I am a Self-learnt Machine Learning and Data Science enthusiast.
+ 
+
+- 🔭 I’m currently working on credit and market risk model validation  
+  
+
+- 🌱 I’m currently sharpening my skills in `Python` , `R`, and `SQL`  
+  
+
+- 👯 I’m looking forward to create more awesome projects on ML and DS  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
 I enjoy learning programming languages that helps me to improve my dayly work and increase my productivity , such as:
 * `R`
 * `Python`
 * `SAS`
 * `Matlab`
 * `SQL`
-<br />
-<hr/>
-
-### I am a Self-learnt Machine Learning enthusiast.
-- 🔭 I just tried to make a readme file for my github account.<br />
-- 🌱 I’m currently learning Machine Learning in `Python` and `R` .<br />
-- 👯 I’m wanting to create more awesome projects.<br />
 <!--
-- 🥅 2021 Goals: Contribute more to Open Source projects.<br />
-- ⚡ Fun fact: I love to draw Anime character and watch Anime.
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />  
+</div>  
 -->
-<br/>
-<hr/>
+<br/>  
 
 
-### 🧧 Connect with me:
-[<img align="left" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" width="25px"> ][linkedin]
-[<img align="left" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png"  width="25px"> ][instagram]
-[<img align="left" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" width="25px"> ][facebook]
-[<img align="left" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" width="25px"> ][twitter]
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arielmg09&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielmg09&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=arielmg09&&style=flat-square)  
+  
+
+<br/>  
+
+  
+
+<br/>  
 
 
-<!--[<img align="left" alt="arielmg09 | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][linkedin]
--->
 <br />
-<!--
-**arielmg09/arielmg09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 
