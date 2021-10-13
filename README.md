@@ -1,7 +1,4 @@
 ## Hey 👋, I'm Ariel!  
-<a href="https://github.com/arielmg09" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href=mailto:arimgimenez@gmail.com target="_blank">
 <img src=https://img.shields.io/badge/-arimgimenez@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:arimgimenez@gmail.com alt=Gmail style="margin-bottom: 5px;" />
 </a>
