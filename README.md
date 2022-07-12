@@ -16,13 +16,13 @@
 </a>  
   
 ### Glad to see you here!  
-I'm an experienced economist with 5+ years of experience in quantitative finance and macroecnomic research.  I joined the sector in 2015, working as a model validator of credit and market risk models. 
+I'm an experienced economist with 6+ years of experience in quantitative finance and macroecnomic research.  I joined the sector in 2015, working as a model validator of credit and market risk models. 
 
-I am located in London, as part of a highly skilled quantitative analyst team working for a top tier European bank.  
+I am located in London, as part of a highly skilled quantitative analyst team working for large global banks.  
   
 ### A little more about my **professional background**:
--	Experienced Quantitative Analyst with over 5 years’ experience working on critical risk initiatives within global financial risk institutions.
--	Strong expertise in model risk (including SR 11-7, OCC 2011-12), stress testing (including PRA SS 3/18, CCAR DFAST) and PPNR forecasting.
+-	Experienced Quantitative Analyst with over 6 years’ experience working on critical risk initiatives within global financial risk institutions.
+-	Strong expertise in model risk across many regulatory frameworks (including SR 11-7, IFRS9, Basel, CECL), stress testing (including PRA SS 3/18, CCAR DFAST) and PPNR forecasting.
 -	Proven track record of delivery within risk management covering model validation, management reporting, regulatory assessment, and project management.
 -	Strong ability to collaborate with various stakeholders across the business and explain technical concepts to senior management.
 -	Skilled in `Python`, `R`, `SQL`, statistics, and econometrics. 
